@@ -1,0 +1,11 @@
+This is a windows build
+
+Drag and drop a file onto player.exe
+
+or
+
+you could open cmd; point to this folder and type: player [file name.extension]
+ex: player 8bit_castle.mod
+
+or ./player 8bit_castle.mod 
+if you are using powershell on windows or terminal on linux
