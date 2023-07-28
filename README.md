@@ -22,6 +22,6 @@ https://xmp.sourceforge.net/libxmp.html
 
 https://miniaud.io/docs/
 
-To understand more the appeal of trackers specially for game dev: https://www.youtube.com/watch?v=roBkg-iPrbw
+To understand more the appeal of trackers, specially for game dev: https://www.youtube.com/watch?v=roBkg-iPrbw
 
 
