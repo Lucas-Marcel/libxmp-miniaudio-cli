@@ -8,7 +8,7 @@ https://github.com/libxmp/libxmp/tree/master/lite
 https://github.com/mackron/miniaudio
 
 
-It uses xmp lite which is aimed at game development but you can use regular xmp if that's the case.
+This project uses xmp lite which is aimed at game development, but you can use regular xmp if that's the case.
 
 
 
