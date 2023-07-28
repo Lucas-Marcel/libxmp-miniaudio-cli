@@ -10,4 +10,7 @@ When compiling On Windows and macOS you need to link to -lxmp-lite. On Linux jus
 
 For more information, read libxmp and miniaudio documentation. 
 
+https://xmp.sourceforge.net/libxmp.html
+https://miniaud.io/docs/
+
 
