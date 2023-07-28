@@ -1,7 +1,7 @@
 # libxmp-miniaudio-cli
 A simple cli to play mod tracker files with libxmp that uses miniaudio as playback. 
 
-It uses xmp lite which is aimed to game development.
+It uses xmp lite which is aimed at game development.
 
 
 
