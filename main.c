@@ -3,7 +3,7 @@
 #include "miniaudio.h"
 #include "libxmp-lite/xmp.h"
 
-// This function is called by miniaudio to fill the audio buffer with data
+// function is called by miniaudio to fill the audio buffer with data
 void data_callback(ma_device* pDevice, void* pOutput, const void* pInput, ma_uint32 frameCount) {
     xmp_context ctx = (xmp_context)pDevice->pUserData; // Get the libxmp context from the device user data
     if (ctx == NULL) {
