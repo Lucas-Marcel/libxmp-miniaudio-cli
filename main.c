@@ -20,9 +20,9 @@ int main(int argc, char** argv) {
     }
 
     // Load the module file using libxmp
-    xmp_context ctx = xmp_create_context(); // Create a new libxmp context
+    xmp_context ctx = xmp_create_context(); //A new libxmp context is created
     if (xmp_load_module(ctx, argv[1]) != 0) { // Load the module file specified by the first command-line argument
-        printf("Error loading module file.\n"); // Print an error message if the module file could not be loaded
+        printf("Error loading module file.\n"); // Prints an error message if the module file could not be loaded
         return 1;
     }
     xmp_start_player(ctx, 44100, 0); // Start the libxmp player with a sample rate of 44100 Hz
